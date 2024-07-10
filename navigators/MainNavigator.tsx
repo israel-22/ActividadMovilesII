@@ -23,7 +23,7 @@ function MyStack() {
     <Stack.Screen name="Galeria" component={GaleriaScreen} /> 
       <Stack.Screen name="Drawer" component={MyDrawer} /> 
       <Stack.Screen name="Camara" component={CamaraScreen} /> 
-      {/* <Stack.Screen name="Registro" component={RegistroScreen} />  */}
+      <Stack.Screen name="Registro" component={RegistroScreen} />  
       <Stack.Screen name="Mapa" component={MapaScreen} /> 
     </Stack.Navigator> 
   ); 
